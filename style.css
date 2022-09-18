@@ -1,0 +1,109 @@
+body{
+  text-align: center;
+  margin: 0;
+}
+.button{
+  line-height: 2.5;
+  border: 0;/*It remove border line o four side of button.*/
+  border-radius: 10px;/*it is used to round the corner of box.*/
+  padding: 5px 20px;/*it is used for text in more centre.*/
+  background-color:#63ced9;
+  color: white;/*text color*/
+  box-shadow: 2px 2px 8px  black;/*to give box a shadow.*/
+}
+.button:hover{
+  background-color:#4698a1;
+}
+.one-more-container{
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+.middle-container{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.intro{
+  margin-bottom:80px;
+}
+.cloud1{
+  position: absolute;
+  left: 16em;
+}
+.top-container{
+  background-color:#dcefff;
+}
+.unl{
+  text-decoration: underline;
+}
+.cloud{
+  position: relative;
+  left: 400px;
+  top: 50px;
+}
+.horizontal{
+  border-style: dotted none none none;
+  width: 4%;
+  border-width:6px;
+  color: grey;
+}
+.head{
+  font-size: 9em;
+  font-family: 'Sacramento', cursive;
+  color: #005962;
+  margin-top:40px;
+  margin-bottom: 30px;
+}
+.para{
+  font-size: 3em;
+  color: #0f3f56;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 30px;
+}
+.head2{
+  color:#66BFBF;
+  text-align: left;
+}
+.head3{
+  color:#66BFBF;
+}
+.para4{
+  line-height: 2;
+  width: 40%;
+  margin: 40px auto 60px auto;
+}
+.head4{
+  color:#66BFBF;
+  margin-top: 90px;
+  margin-bottom: 40px;
+}
+.anchor{
+  margin: 0 auto 0 auto;
+}
+.anchor1{
+  width: 250px;
+  height: 250px;
+}
+.details{
+  background-color: #66BFBF;
+}
+.details1{
+  background-color: #66BFBF;
+  padding-right: 20px;
+  color: #11999E;
+  text-decoration: none;
+}
+.details1:hover{
+  color: #EAF6F6;
+}
+.details3{
+  background-color: #66BFBF;
+  padding: 30px;
+}
+.para1{
+  text-align: left;
+  line-height: 2;
+}
+.para3{
+  color: #EAF6F6;
+  font-size: 75%;
+}
